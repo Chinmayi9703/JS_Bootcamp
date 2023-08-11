@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+.container{
+    width:max-content;
+    padding: 16px 30px;
+    margin: auto;
+}
+.ps{
+    font-size: 40px;
+}
+.btn{
+  color:white;
+  font-size: 15px;
+  padding: 16px 30px;
+  background-color: black;
+  border:none;
+  border-radius: 50px;
+  cursor: pointer; 
+
+}
+
